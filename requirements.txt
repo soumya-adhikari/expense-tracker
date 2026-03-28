@@ -1,0 +1,4 @@
+# No external requirements for Tkinter + SQLite
+python>=3.10
+# Requirements for Android build (Kivy)
+kivy
